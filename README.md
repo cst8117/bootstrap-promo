@@ -1,2 +1,4 @@
-# bootstrap-promo
-This repository contains the starter files for the Bootstrap Promo project. 
+# Bootstrap Promo
+
+## Objective
+Create a Bootstrap Promo page using only the Bootstrap framework that closely matches the provided mockup.
